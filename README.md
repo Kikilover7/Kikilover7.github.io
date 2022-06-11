@@ -1,8 +1,6 @@
 ## 第一年的时光
 
-You can use the [editor on GitHub](https://github.com/Kikilover7/Kikilover7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2017年6月15日，转为农村
 
 ### Markdown
 
