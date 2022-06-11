@@ -2,6 +2,8 @@
 
 2017年6月15日，转为农村
 
+<center><img src= 1.jpg  width="30%"></center>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
